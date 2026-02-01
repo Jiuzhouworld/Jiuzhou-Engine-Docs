@@ -10,7 +10,7 @@
 
 Since its launch, the platform has acquired **1,100+ active users** with an average session time of **61 minutes**.
 
-🔗 **Demo Video:** 【【因为忍受不了失忆ai，我创造了一个永不遗忘的修仙世界？！】】 https://www.bilibili.com/video/BV1qVaFzxEP1/?share_source=copy_web&vd_source=c72d2dd6d4df0ff72b2e28ee1ae3d5ab
+🔗 **Demo Video:** 【Unable to tolerate the amnesia-prone AI, I created a cultivation world where nothing is ever forgotten?!】 https://www.bilibili.com/video/BV1qVaFzxEP1/?share_source=copy_web&vd_source=c72d2dd6d4df0ff72b2e28ee1ae3d5ab
 
 ## 🏗 System Architecture
 
