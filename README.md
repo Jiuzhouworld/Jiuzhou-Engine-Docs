@@ -43,7 +43,7 @@ The core innovation of Jiuzhoujie lies in its **Dual-Agent Architecture** combin
 
 *This repository contains the system design documentation. The core source code is proprietary.*
 
-*   [Project Technical Overview](./PROJECT_OVERVIEW.md) (Detailed Architecture Breakdown)
+*   [Project Technical Overview](./PROJECT_OVERVIEW_EN.md) (Detailed Architecture Breakdown)
 
 ## 📬 Contact
 
